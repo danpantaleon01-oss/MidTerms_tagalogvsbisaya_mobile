@@ -17,8 +17,7 @@ FEATURES:
 - Arrow keys / WASD
 - Score
 - Increasing speed
-- Player names
-- 2-player local co-op/versus mode (Arrows vs WASD)
+- Player name
 - Persistent top-10 leaderboard
 - JSON score storage
 - Main menu
